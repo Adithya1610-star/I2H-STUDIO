@@ -1,0 +1,9 @@
+Flask
+requests
+openai
+python-dotenv
+beautifulsoup4
+google-generativeai
+pillow
+gunicorn
+uvicorn
